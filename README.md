@@ -11,4 +11,4 @@ The mars_weather.ipynb Jupyter notebook scrape data from a static html file from
 3. Months have the lowest and the highest atmospheric pressure on Mars
 4. The number of terrestrial (Earth) days in a Martian year
 
-Finally, the script exports the data into a csv file - mars_weather.csv.
+Finally, the script exports the data into a csv file in the output folder - output/mars_weather.csv.
